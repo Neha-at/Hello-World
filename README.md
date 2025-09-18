@@ -46,3 +46,5 @@ Custom visuals: Treemap, Waterfall, Bar + Line combo chart, Scatter Plot.
 Dynamic filters and KPI toggles for user-friendly exploration.
 
 👉 Impact: This dashboard empowers management with actionable insights, enabling them to track sales health, optimize profitability, and proactively respond to declining markets.
+<img width="1312" height="736" alt="Screenshot 2025-09-19 003554" src="https://github.com/user-attachments/assets/82a1f262-e3dc-4a98-bf26-e67a108a7f48" />
+
